@@ -74,7 +74,7 @@ function newpoints_buynametitle_info()
 		"description"	=> "Allows users to buy a new username and/or usertitle.",
 		"website"		=> "http://www.mybb-plugins.com",
 		"author"		=> "Pirata Nervo",
-		"authorsite"	=> "http://www.consoleaddicted.com",
+		"authorsite"	=> "http://www.mybb-plugins.com",
 		"version"		=> "1.2",
 		"guid" 			=> "",
 		"compatibility" => "*"
