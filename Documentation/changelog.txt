@@ -1,0 +1,5 @@
+ v1.2
+* Fixed a bug that would deduct points even if the username validation failed.
+
+ v1.1
+* Fixed a misplace between the old and new usernames in the stats pages.
