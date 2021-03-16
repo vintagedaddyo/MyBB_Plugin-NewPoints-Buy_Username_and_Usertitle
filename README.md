@@ -1,0 +1,1 @@
+# MyBB_Plugin-NewPoints-Buy_Username_and_Usertitle
